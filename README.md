@@ -8,6 +8,6 @@ En este repo, encontrarán las guías para la curva de aprendizaje, correspondie
 
 Un abrazo a todos y adelante !.
 
-# Eliana Yineth lozano Triana
+Eliana Yineth lozano Triana
 
-#Instructora - CADPH SENA 
+Instructora - CADPH SENA 
